@@ -8,6 +8,7 @@ metadata:
   stack: workspace-api-smoke-test-stack
 spec:
   type: app
+  app-id: 01H7JBTYKFSM2GAKZACQH865AH
   plugins:
     - name: workspace-api-smoke-test/workspace-api-smoke-test-stack/smoke-test-plugin-app-basic@0.0.1
       alias: smoke-test-plugin-app-basic
